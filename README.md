@@ -1,4 +1,4 @@
-Show Authors in Page Lists
+Show Authors in Page Lists (WordPress Plugin)
 =========================
 
 Allows developers to display author names within wp_list_pages-generated page lists.
