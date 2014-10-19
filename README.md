@@ -34,4 +34,4 @@ As demand warrants, future builds may include these additional functionalities.
 
 **CHANGELOG**
 
-- 1.0 (6/19/11) - Initial Google Code Project Hosting (http://code.google.com/p/studio-hyperset/downloads/list) & WordPress Plugin Directory release
+- 1.0 (6/19/11) - Initial release
