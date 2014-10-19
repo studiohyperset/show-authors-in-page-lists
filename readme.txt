@@ -22,9 +22,7 @@ After installing and activating, use the parameter `showauthors=1` to display an
 
 * For feedback and help, visit: http://getsatisfaction.com/studio_hyperset/products/studio_hyperset_wordpress_plugins
 
-* To learn about other Studio Hyperset WordPress plugins, visit http://studiohyperset.com/projects/wordpress-plugins
-
-* To learn about other Studio Hyperset code projects, visit http://code.google.com/p/studio-hyperset/downloads/list
+* To learn about other Studio Hyperset WordPress plugins, visit http://studiohyperset.com/#solutions
 
 * To help develop the Show Authors in Page List plugin, visit https://github.com/studiohyperset/show-authors-in-page-list
 
