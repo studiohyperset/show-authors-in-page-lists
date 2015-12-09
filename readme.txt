@@ -3,7 +3,7 @@ Contributors: studiohyperset, oqm4, ryanajarrett
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C2KQADH2TGTS4
 Tags: wp_list_pages, author, plugin, function
 Requires at least: 3.0
-Tested up to: 4.3
+Tested up to: 4.4
 Stable tag: 1.0
 
 Allows developers to display author names within wp_list_pages-generated page lists.
